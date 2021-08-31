@@ -12,7 +12,6 @@ In purpose of simplify we use github issues templates.
 
 New Feature => We are using this template to provide a new feature
 Bug => We are using this template to report a bug
-Question => We are using this template to ask questions
 
 Please respect thoses templates.
 
